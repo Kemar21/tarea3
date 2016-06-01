@@ -1,0 +1,6 @@
+c:\users\kemblys\documents\visual studio 2015\Projects\Tarea3RegistroUH\Tarea3RegistroUH\bin\Debug\Tarea3RegistroUH.exe.config
+c:\users\kemblys\documents\visual studio 2015\Projects\Tarea3RegistroUH\Tarea3RegistroUH\bin\Debug\Tarea3RegistroUH.exe
+c:\users\kemblys\documents\visual studio 2015\Projects\Tarea3RegistroUH\Tarea3RegistroUH\bin\Debug\Tarea3RegistroUH.pdb
+c:\users\kemblys\documents\visual studio 2015\Projects\Tarea3RegistroUH\Tarea3RegistroUH\obj\Debug\Tarea3RegistroUH.csprojResolveAssemblyReference.cache
+c:\users\kemblys\documents\visual studio 2015\Projects\Tarea3RegistroUH\Tarea3RegistroUH\obj\Debug\Tarea3RegistroUH.exe
+c:\users\kemblys\documents\visual studio 2015\Projects\Tarea3RegistroUH\Tarea3RegistroUH\obj\Debug\Tarea3RegistroUH.pdb
